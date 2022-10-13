@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c320a35-21f0-4d19-8e3f-95c72d4d1eed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chuong1_loaddata/chuong1_loaddata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chuong1_loaddata/src/main/java/chuong1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab100_csv_to_db/CsvToRelationalDatabaseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab100_csv_to_db/CsvToRelationalDatabaseApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab100_csv_to_db/PrettyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab100_csv_to_db/PrettyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab100_csv_to_db/PrettyFormatterColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab100_csv_to_db/PrettyFormatterColumn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lab100_csv_to_db/CsvToRelationalDatabaseApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lab100_csv_to_db/CsvToRelationalDatabaseApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/jgp/books/spark/ch02/x/utils/PrettyFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/jgp/books/spark/ch02/x/utils/PrettyFormatterColumn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/chuong3_lab200.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/data/Restaurants_in_Durham_County_NC.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/data/Restaurants_in_Durham_County_NC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/data/Restaurants_in_Wake_County_NC.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/data/books.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/src/main/java/df/lab200.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong3_lab200/target/classes/df/lab200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong5_p94/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chuong5_p94/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2DXjGDNEKAbe0HBPS1QLcRFYce0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager" selected="Application.CsvToRelationalDatabaseApp">
+    <configuration name="CsvToApacheDerbyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.jgp.books.spark.ch02.lab110_csv_to_derby.CsvToApacheDerbyApp" />
+      <module name="chuong2_page22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.jgp.books.spark.ch02.lab110_csv_to_derby.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsvToRelationalDatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab100_csv_to_db.CsvToRelationalDatabaseApp" />
+      <module name="chuong2_page22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab100_csv_to_db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CsvToRelationalDatabaseApp" />
+        <item itemvalue="Application.CsvToApacheDerbyApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c320a35-21f0-4d19-8e3f-95c72d4d1eed" name="Default Changelist" comment="" />
+      <created>1660852225192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660852225192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1660853937707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1660853937707" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1661850851745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1661850851745" />
+    <state width="1323" height="324" key="GridCell.Tab.0.bottom" timestamp="1661871532186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="324" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1661871532186" />
+    <state width="1323" height="324" key="GridCell.Tab.0.center" timestamp="1661871532185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="324" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1661871532185" />
+    <state width="1323" height="324" key="GridCell.Tab.0.left" timestamp="1661871532185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="324" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1661871532185" />
+    <state width="1323" height="324" key="GridCell.Tab.0.right" timestamp="1661871532186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="324" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1661871532186" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1661209468124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1661209468124" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1661221272724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1661221272724" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1661199448202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1661199448202" />
+    <state x="65" y="59" key="new project wizard" timestamp="1661871530579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1661871530579" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1661849758251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1661849758251" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1661221251533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1661221251533" />
+  </component>
+</project>

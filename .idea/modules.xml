@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter1_loaddata/spark-in-action2-chapter01.iml" filepath="$PROJECT_DIR$/chapter1_loaddata/spark-in-action2-chapter01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2_architecture/spark-in-action2-chapter02.iml" filepath="$PROJECT_DIR$/chapter2_architecture/spark-in-action2-chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3_rdd_dataframe/spark-in-action2-chapter03.iml" filepath="$PROJECT_DIR$/chapter3_rdd_dataframe/spark-in-action2-chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark_java_book.iml" filepath="$PROJECT_DIR$/.idea/spark_java_book.iml" />
+    </modules>
+  </component>
+</project>
